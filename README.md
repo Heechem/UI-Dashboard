@@ -1,6 +1,18 @@
-# React + Vite
+# Dashobord UI 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://admirable-dashboard.netlify.app/
+
+
+![image](https://github.com/Heechem/UI-Dashboard/assets/117024247/2da5e8ec-8119-4bda-a61a-a29503191a4f)
+
+
+This is a UI for a dashboard created with the following technologies .
+
+- React
+- Tailwind CSS
+- Tremor Componenet
+- Hero Icon
+- Tailwind 
 
 Currently, two official plugins are available:
 
